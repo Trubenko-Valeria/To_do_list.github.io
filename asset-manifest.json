@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To_do_list.github.io/static/css/main.08bc73ac.css",
+    "main.js": "/To_do_list.github.io/static/js/main.222841f2.js",
+    "index.html": "/To_do_list.github.io/index.html",
+    "main.08bc73ac.css.map": "/To_do_list.github.io/static/css/main.08bc73ac.css.map",
+    "main.222841f2.js.map": "/To_do_list.github.io/static/js/main.222841f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08bc73ac.css",
+    "static/js/main.222841f2.js"
+  ]
+}
